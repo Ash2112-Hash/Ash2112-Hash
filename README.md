@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [My Website](My Website)
 
-- 📝 I am currently working as a Python and Arduino project developer for [McMaster VENTURE Academy](https://youthprograms.eng.mcmaster.ca/)
+- 📝 I am currently working as a Assistant Project developer for [McMaster VENTURE Academy](https://youthprograms.eng.mcmaster.ca/) that involved Python and Arduino
 
 - 💬 Ask me about **Python and Arduino concepts**
 
