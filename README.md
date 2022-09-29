@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Java Data structures and algorithms and React frameworks**
 
-- 👨‍💻 All of my projects are available at [My Website](My Website)
+- 👨‍💻 All of my design projects are available at
 
-- 📝 I am currently working as a Assistant Project developer for [McMaster VENTURE Academy](https://youthprograms.eng.mcmaster.ca/) that involved Python and Arduino
+- 📝 Currently seeking 2023 Summer Internships in Software Engineering
 
 - 💬 Ask me about **Python and Arduino concepts**
 
