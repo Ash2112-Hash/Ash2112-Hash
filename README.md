@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on a personal **React Porfolio**
 
-- 🌱 I’m currently learning **Java Data structures and algorithms and React frameworks**
+- 🌱 I’m currently learning **Javascript and React frameworks**
 
 - 👨‍💻 All of my design projects are available at
 
