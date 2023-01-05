@@ -58,7 +58,7 @@
 
   <br/>
     <a href="https://github.com/Ash2112-Hash/github-readme-stats"><img alt="Ashwin Unnithan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ash2112-Hash&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a>
-  <a href="https://github.com/Ash2112-Hash/github-readme-stats"><img alt="Ashwin Unnithans's Top Languages" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false" /></a>
+  <a href="https://github.com/Ash2112-Hash/github-readme-stats"><img alt="Ashwin Unnithans's Top Languages" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
