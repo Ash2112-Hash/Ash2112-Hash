@@ -57,8 +57,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Ash2112-Hash/github-readme-stats"><img alt="Ashwin Unnithan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ash2112-Hash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ash2112-Hash/github-readme-stats"><img alt="Ashwin Unnithans's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash2112-Hash&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Ash2112-Hash/github-readme-stats"><img alt="Ashwin Unnithan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ash2112-Hash/github-readme-stats"><img alt="Ashwin Unnithans's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
