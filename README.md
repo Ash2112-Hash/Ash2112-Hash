@@ -8,15 +8,11 @@
 
 ## 🙋‍♂️ About Me ##
 
-- 🔭 I’m currently working on a personal **React Porfolio**
+- 🔭 I’m currently working on a **OpenAI Speech-Text Aid**
 
-- 🌱 I’m currently learning **Javascript and React frameworks**
+- 📝 Currently seeking 2024 Summer/Winter Internships in Software Engineering
 
-- 👨‍💻 All of my design projects are available at
-
-- 📝 Currently seeking 2023 Summer Internships in Software Engineering
-
-- 💬 Ask me about **Python and Arduino concepts**
+- 💬 Ask me about **Software Engineering, The Uni Life, Python, Java and Arduino concepts**
 
 - 📫 How to reach me **unnithanash@gmail.com**
 
