@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Ashwin</h1>
-<h2 align="center"> An passionate software developer aimed at acheiving greater leaps in society using innovative software solutions </h2>
+<h2 align="center"> A passionate software developer aimed at achieving greater leaps in society using innovative software solutions </h2>
 
 <br/>
 <br/>
